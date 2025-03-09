@@ -12,4 +12,3 @@ Assets creted by me or provided my Newcastle University.
 - Open Unity Hub and select add project
 - Select the folder and follow any instructions provided by Unity Hub to install the correct Unity version
 - You may need to open the scene from assets for some projects
-
